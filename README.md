@@ -1,4 +1,4 @@
-# **GO Terms Dot Plot Visualizer**
+# **Paper name, title**
 
 This repository contains code and data for (TBD)
 
