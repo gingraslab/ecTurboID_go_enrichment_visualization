@@ -17,7 +17,7 @@ git clone https://github.com/gingraslab/ecTurboID_reprodicibility
 ```
 To run the tool, navigate to the main directory in your terminal and execute the following command:
 ```shell
-python3 src/go_terms_dot_plot.py
+python3 go_terms_dot_plot.py
 ```
 The tool will prompt you to enter:
 1. The directory containing the input Excel files.
